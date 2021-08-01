@@ -21,3 +21,6 @@ Python
 3. Matplotlib
 4. scikit-learn
 5. Seaborn
+
+### Author:
+<a href="https://github.com/ritvikanandi">Ritvika Nandi</a>
